@@ -53,7 +53,10 @@ messages: Message[];
   imageUrl: string | null;
   @Column({ nullable: true })
 formUrl?: string;
-@OneToMany(() => Task, (task) => task.event)
+@OneToMany(() => Task, (task) => task.event, {
+  cascade: true,
+  onDelete: 'CASCADE'
+})
 tasks: Task[];
 @Column({ default: false }) // par défaut, l'événement est public
 isPrivate: boolean;

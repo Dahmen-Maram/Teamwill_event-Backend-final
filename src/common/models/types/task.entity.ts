@@ -16,8 +16,10 @@ export class Task {
   @Column({ nullable: true })
   description: string;
 
-  @ManyToOne(() => Event, event => event.tasks)
-  event: Event;
+  @ManyToOne(() => Event, event => event.tasks, {
+  onDelete: 'CASCADE'
+})
+event: Event;
 
   @ManyToOne(() => User)
   assignedTo: User;

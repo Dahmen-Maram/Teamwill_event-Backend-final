@@ -1,0 +1,16 @@
+﻿id,full_name,email,phone,job_title,department,hire_date,salary,manager
+1,Ahmed Khelifi,ahmedkhelifi@teamwill.com,21620111222,Développeur,Informatique,2019-03-12,4500.0,Samir Ben Ali
+2,Sonia Trabelsi,soniatrabelsi@teamwillgroup.com,21620111333,Chef de projet,Direction,2018-07-01,7200.0,Hatem Jlassi
+3,Maroua Ben Amor,marouabenamor@teamwill.com,21620111444,Analyste RH,RH,2020-01-15,3800.0,Syrine Khadhraoui
+4,Ali Bensalah,alibensalah@teamwillgroup.com,21620111555,Data Scientist,Informatique,2021-05-20,6000.0,Ahmed Khelifi
+5,Nadia Gharbi,nadiagharbi@teamwill.com,21620111666,Comptable,Finance,2017-11-03,5200.0,Samir Ben Ali
+6,Khaled Mansour,khaledmansour@teamwillgroup.com,21620111777,Technicien Support,Support,2016-09-23,3100.0,Fatma Ayari
+7,Houda Ayari,houdaayari@teamwill.com,21620111888,Ingénieur QA,Informatique,2019-08-18,4800.0,Maroua Ben Amor
+8,Amine Cherif,aminecherif@teamwillgroup.com,21620111999,Consultant,Direction,2022-02-05,7000.0,Hatem Jlassi
+9,Salma Fekih,salmafekih@teamwill.com,21620112000,Chargée Marketing,Marketing,2018-10-29,4100.0,Syrine Khadhraoui
+10,Hichem Dridi,hichemdridi@teamwillgroup.com,21620112111,Architecte Logiciel,Informatique,2015-04-11,9300.0,Ahmed Khelifi
+11,Syrine Khadhraoui,syrinekhadhraoui@teamwill.com,21620112222,Responsable RH,RH,2014-12-15,8200.0,Samir Ben Ali
+12,Mohamed Jaziri,mohamedjaziri@teamwillgroup.com,21620112333,Auditeur,Finance,2020-06-01,5700.0,Nadia Gharbi
+13,Fatma Ayari,fatmaayari@teamwill.com,21620112444,Support Technique,Support,2017-01-19,3300.0,Houda Ayari
+14,Hatem Jlassi,hatemjlassi@teamwillgroup.com,21620112555,Directeur Projet,Direction,2013-03-22,10500.0,Ahmed Khelifi
+15,Imen Rekik,imenrekik@teamwill.com,21620112666,UX Designer,Marketing,2019-09-10,4600.0,Salma Fekih

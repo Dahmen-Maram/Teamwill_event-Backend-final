@@ -1,0 +1,16 @@
+id,full_name,email,phone,job_title,department,hire_date,salary,manager
+a4d9b2b1-f86a-4f1f-9194-16b7e23774ee,Jean Navarro de la Marchand,jean.navarrodelamarchand@teamwillgroupe.com,0297287640,monteur-câbleur,Informatique,2018-08-05,5596.46,Lucas Diaz
+5bb2c753-3680-4d9d-89c1-dae5a2ca67e0,Raymond-Robert Bourgeois,raymond-robert.bourgeois@teamwillgroupe.com,+33 3 84 56 36 98,horticulteur,Finance,2015-11-07,5794.78,Édith David
+3b314040-294f-4e14-9e25-4b47c2f4f50b,Danielle Perrier,danielle.perrier@teamwill.com,+33 1 17 09 96 01,animateur socioculturel socioculturelle,Informatique,2021-12-21,7878.08,Auguste Joseph-Evrard
+80415348-8647-41bc-8a3d-e22ba6b629cb,Camille Gomez,camille.gomez@teamwillgroupe.com,0341656232,ingénieur systèmes embarqués,Direction,2022-04-13,7962.56,Richard de la Pinto
+9130d48e-a9b1-4a4a-bd5b-88d07d1ebc76,Jérôme Boyer,jérôme.boyer@teamwillgroupe.com,0423365804,architecte produit industriel,Support,2021-09-09,4003.85,Lorraine-Louise Schneider
+10d3bb65-a2ee-49b5-8e84-2679e43afbeb,Étienne Thierry,étienne.thierry@teamwillgroupe.com,02 69 98 95 95,sellier,Marketing,2025-08-29,7113.13,Françoise Chrétien
+3a6ae28d-d17b-4ca2-a648-9ad10c2e8bc7,Isabelle-Élodie Traore,isabelle-élodie.traore@teamwill.com,+33 1 18 13 43 95,ingénieur réservoir,Finance,2015-09-15,6393.36,Manon Godard-Marty
+87ceb83e-9b0b-405f-bf10-1cb2a4d9d6f1,Benoît Moreno,benoît.moreno@teamwillgroupe.com,05 06 56 45 78,acheteur,Marketing,2018-08-22,4187.63,Jérôme Le Goff
+e542a5e1-40df-48eb-acc3-fa862b81310a,Noël Gomes-Lesage,noël.gomes-lesage@teamwill.com,+33 (0)3 39 24 00 13,antiquaire,Direction,2023-11-23,3023.56,Théodore Aubert
+21f67d33-278f-4665-a058-7ca97a8cc5e0,Charlotte Mercier,charlotte.mercier@teamwill.com,+33 4 77 36 88 16,secrétaire administratif,Direction,2019-06-06,3883.76,Gilbert-David Allard
+b7004a8a-b60d-4cbe-b374-6a126bafb619,Alain Carre,alain.carre@teamwillgroupe.com,+33 (0)8 00 95 87 12,agent de développement local,Finance,2018-07-29,2777.23,Renée-Arnaude Grégoire
+267aa496-b2e2-4905-9c65-c31aeec0d7ed,Gilbert Bernard,gilbert.bernard@teamwillgroupe.com,+33 2 57 03 98 17,garde à cheval,Informatique,2019-07-04,8330.2,Thérèse Cohen
+8b8580cf-b6e8-4b2b-ba17-3b3d33c92e86,Antoine Delorme,antoine.delorme@teamwill.com,+33 2 08 75 22 69,technicien réalisateur réalisatrice radio,Direction,2017-02-24,6130.32,Constance Étienne
+6b1f4733-1f74-4512-8c1c-5ca2e313b5f7,Alex Martins Le Imbert,alex.martinsleimbert@teamwillgroupe.com,+33 (0)2 48 95 60 73,responsable qualité en agroalimentaire,Marketing,2023-07-15,7283.33,Audrey Besson Le Julien
+fa3eeab6-6dcd-47ae-b344-b1def3cbed3e,André Mercier,andré.mercier@teamwill.com,+33 5 25 19 82 41,conducteur de travaux,Marketing,2021-08-05,4317.95,Alexandre Bonneau-Raymond

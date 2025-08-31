@@ -1,0 +1,16 @@
+id,full_name,email,phone,job_title,department,hire_date,salary,manager
+4aa5b460-5d50-4d91-bfae-563eeaa1c843,Maryse Petit,maryse.petit@teamwillgroup.com,0545647796,ingénieur cloud computing,Informatique,2020-02-16,4653.75,Grégoire-Adrien Lévêque
+0a1e9c67-cc52-4996-bc8f-62b0ecfdafb4,Marguerite Faivre,marguerite.faivre@teamwillgroup.com,08 06 15 44 64,inspecteur du permis de conduire et de la sécurité routière,Direction,2024-09-21,8790.26,Patrick Le Roux du Adam
+28f9091e-9a2f-4857-a1bb-863c3934781a,Eugène du David,eugène.dudavid@teamwillgroup.com,+33 (0)1 19 41 50 29,intégrateur web,Support,2018-09-02,3285.04,Nathalie Paul
+5224235e-8096-4c26-9942-3554a8bd394e,Maggie Faure,maggie.faure@teamwill.com,0144877043,secrétaire des affaires étrangères,Informatique,2023-03-07,4405.75,Nathalie Louis
+17295647-9e20-43ac-b41f-04f4a7dc2c9e,Juliette Faivre,juliette.faivre@teamwill.com,0151116638,cryptologue,RH,2021-03-26,4302.68,Guy de la Dumont
+9d5501dd-68d3-4217-a41b-1a572e29cbdd,Laurent Mercier de Clerc,laurent.mercierdeclerc@teamwill.com,08 03 16 58 85,conseiller agricole,Informatique,2023-04-25,4308.98,Sylvie Le Gauthier
+67710c11-74d1-4a7e-b134-93c1455bb6b7,Augustin Gérard,augustin.gérard@teamwillgroup.com,0133420469,ingénieur brevets,RH,2022-11-17,4815.14,Augustin de la Rolland
+3019958b-f105-481c-a4be-f5a24dbc5109,Simone Aubert,simone.aubert@teamwill.com,0407182712,responsable de plate-forme biotechnologique,Informatique,2019-10-24,6882.18,Michelle Leclerc
+9f0d5543-0cdc-460d-bf48-ccf257cbdbb8,Anouk Lebreton,anouk.lebreton@teamwillgroup.com,+33 (0)5 55 40 19 17,auditeur interne,Direction,2017-08-02,8475.76,Louis Marchal de Rossi
+84c6a00d-2d9a-4d23-9405-f2381ce8686e,Camille de la Bertin,camille.delabertin@teamwill.com,05 21 63 42 84,chargé de production,Direction,2016-02-22,7649.59,Stéphane Henry
+a481582c-7404-466d-a9b4-5979c7e2ef77,Philippine Torres,philippine.torres@teamwillgroup.com,0375783304,documentaliste,RH,2023-10-15,6209.49,Émile Laporte
+b63e9458-c3f5-4ce1-b714-1fd2bb2ba05c,Antoine Prévost,antoine.prévost@teamwillgroup.com,0605249073,costumier,Marketing,2024-11-11,6085.09,Martine Gaudin
+d003923e-ac8e-4c90-bc34-e6a6898f1c3a,Célina Berger de Maury,célina.bergerdemaury@teamwill.com,04 05 76 18 75,assistant de gestion en PME,Support,2024-10-05,4609.47,Rémy Richard de la Lejeune
+79cffdc9-d7a9-457c-baa5-be1d4604283a,Philippe Dupré,philippe.dupré@teamwill.com,+33 (0)3 03 41 32 39,serrurier dépanneur dépanneuse,Direction,2024-08-24,6324.33,Jeanne-Nathalie Millet
+301bfb0d-853f-497b-ba0f-0408f9eb1435,Suzanne François-Toussaint,suzanne.françois-toussaint@teamwill.com,+33 (0)4 57 36 61 05,formateur en informatique,Informatique,2021-11-29,5026.65,Édith Gérard
